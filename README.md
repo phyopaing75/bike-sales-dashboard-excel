@@ -15,12 +15,12 @@ The workbook contains four dedicated sheets reflecting an end-to-end analytical 
 Data Cleaning & Transformation
 1. Deduplication: Identified and removed duplicate customer entries to maintain integrity.
 2. Value Standardization:
-  1. Standardized abbreviated marital status codes (M -> Married, S -> Single).
-  2. Standardized gender values (M -> Male, F -> Female).
-  3. Feature Engineering (Age Bucketing): Grouped continuous customer age into distinct life stages using nested logical conditions:
-  4. Adolescent: Under 31 years old
-  5. Middle Age: 31 to 54 years old
-  6. Old: 55 years and older
+  a. Standardized abbreviated marital status codes (M -> Married, S -> Single).
+  b. Standardized gender values (M -> Male, F -> Female).
+  c. Feature Engineering (Age Bucketing): Grouped continuous customer age into distinct life stages using nested logical conditions:
+  d. Adolescent: Under 31 years old
+  e. Middle Age: 31 to 54 years old
+  f. Old: 55 years and older
 
 ---
 
@@ -36,7 +36,9 @@ Interactive Dashboard Features
 2. Customer Commute Distribution: Line/bar trend tracking bike adoption across commute brackets.
 3. Bike Purchases by Age Group: Segmented breakdown across life stages.
 4. Dynamic Slicers: Interactive filtering by Marital Status, Education Level, and Region to allow targeted exploratory data analysis.
+
 ---
+
 Tools & Skills Demonstrated
 1. Tool: Microsoft Excel
 2. Techniques: Data Cleaning, Formula Modeling (IF / nested conditions), Pivot Tables, Pivot Charts, Slicers & Report Connections, Dashboard Design & Layout.
