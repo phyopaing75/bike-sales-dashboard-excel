@@ -1,10 +1,10 @@
-Project Overview
+## Project Overview
 
 This project analyzes demographic, socioeconomic, and commuting characteristics influencing customer bike purchasing decisions. Using raw customer transaction and survey data, the dataset was cleaned, categorized, and modeled in Microsoft Excel to uncover key purchase drivers and present executive-ready insights via an interactive dashboard.
 
 ---
 
-Dataset & Structure
+## Dataset & Structure
 
 The workbook contains four dedicated sheets reflecting an end-to-end analytical workflow:
 * bike_buyers (Raw Data): Original dataset containing 1,000 customer records and 13 attributes including customer ID, marital status, gender, income, education, occupation, home ownership, number of cars, commute distance, region, and age.
@@ -14,7 +14,7 @@ The workbook contains four dedicated sheets reflecting an end-to-end analytical 
 
 ---
 
-Data Cleaning & Transformation
+## Data Cleaning & Transformation
 
 * Deduplication: Identified and removed duplicate customer entries to maintain integrity.
 * Value Standardization:
@@ -27,7 +27,7 @@ Data Cleaning & Transformation
 
 ---
 
-Key Insights & Findings
+## Key Insights & Findings
 
 * Income Level: Customers who purchased a bike earned a higher average income (~$58,000) compared to non-buyers (~$54,900) across both male and female demographics.
 * Commute Distance: Bike purchases peaked heavily among individuals with a commute distance of 0–1 miles (200 buyers), with purchase likelihood steadily decreasing as commute distances exceeded 5 miles.
@@ -35,7 +35,7 @@ Key Insights & Findings
 
 ---
 
-Interactive Dashboard Features
+## Interactive Dashboard Features
 
 * Average Income by Gender & Purchase Status: Clustered bar/column comparison highlighting purchasing power.
 * Customer Commute Distribution: Line/bar trend tracking bike adoption across commute brackets.
@@ -44,6 +44,6 @@ Interactive Dashboard Features
 
 ---
 
-Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 * Tool: Microsoft Excel
 * Techniques: Data Cleaning, Formula Modeling (IF / nested conditions), Pivot Tables, Pivot Charts, Slicers & Report Connections, Dashboard Design & Layout.
