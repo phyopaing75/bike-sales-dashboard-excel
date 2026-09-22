@@ -36,9 +36,7 @@ Interactive Dashboard Features
 2. Customer Commute Distribution: Line/bar trend tracking bike adoption across commute brackets.
 3. Bike Purchases by Age Group: Segmented breakdown across life stages.
 4. Dynamic Slicers: Interactive filtering by Marital Status, Education Level, and Region to allow targeted exploratory data analysis.
-
+---
 Tools & Skills Demonstrated
-
-Tool: Microsoft Excel
-
-Techniques: Data Cleaning, Formula Modeling (IF / nested conditions), Pivot Tables, Pivot Charts, Slicers & Report Connections, Dashboard Design & Layout.
+1. Tool: Microsoft Excel
+2. Techniques: Data Cleaning, Formula Modeling (IF / nested conditions), Pivot Tables, Pivot Charts, Slicers & Report Connections, Dashboard Design & Layout.
