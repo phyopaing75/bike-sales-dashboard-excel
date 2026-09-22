@@ -13,8 +13,8 @@ The workbook contains four dedicated sheets reflecting an end-to-end analytical 
 ---
 
 Data Cleaning & Transformation
-Deduplication: Identified and removed duplicate customer entries to maintain integrity.
-Value Standardization:
+* Deduplication: Identified and removed duplicate customer entries to maintain integrity.
+* Value Standardization:
 1. Standardized abbreviated marital status codes (M -> Married, S -> Single).
 2. Standardized gender values (M -> Male, F -> Female).
 3. Feature Engineering (Age Bucketing): Grouped continuous customer age into distinct life stages using nested logical conditions:
